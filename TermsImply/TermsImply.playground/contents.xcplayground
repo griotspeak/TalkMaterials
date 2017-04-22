@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Untyped 00'/>
+        <page name='Untyped 01'/>
+        <page name='Untyped 02'/>
+        <page name='Untyped 03_0'/>
+        <page name='Untyped 03_1'/>
+        <page name='Untyped 03_2'/>
+        <page name='Untyped 03_3'/>
+        <page name='Untyped 03_4'/>
+        <page name='Untyped 03_5'/>
+        <page name='Untyped 03_final'/>
+        <page name='Untyped 04'/>
+        <page name='Untyped 05'/>
+        <page name='Untyped 06'/>
+        <page name='Typed 00'/>
+        <page name='Typed 01'/>
+        <page name='Typed 02'/>
+        <page name='Typed 03'/>
+        <page name='Typed 04'/>
+        <page name='Typed 05'/>
+        <page name='Typed 06'/>
+        <page name='Typed 07'/>
+        <page name='Typed 08'/>
+    </pages>
+</playground>
